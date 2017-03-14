@@ -7,5 +7,5 @@ Practice to solve knapsack problem using greedy-algorithm and Ruby.
 1. need to add knapsack capacity
 2. realize algorithm
 
-### Feature
+## Feature
 Rewrite code using OOP
